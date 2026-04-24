@@ -49,6 +49,8 @@ Performed analysis in MySQL to answer key business questions:
   * Revenue and sales by category
   * Subscription distribution
   * Revenue and sales by age group
+    <img width="1092" height="607" alt="image" src="https://github.com/user-attachments/assets/a6112d7d-e7c2-4950-b348-3a160020050b" />
+
 
 * Created a presentation in Gamma to communicate insights and business recommendations clearly
 
