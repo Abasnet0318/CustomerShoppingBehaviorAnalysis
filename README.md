@@ -84,5 +84,4 @@ Python → MySQL → Power BI → Gamma
 
 ## Author
 
-Anish 
-making changes
+Anish Basnet
